@@ -22,6 +22,7 @@ After, succesfull pull of repository.
 cd into directory, run 
 composer install
 '''
+
 '''
 Run 
 cp .env.example .env
