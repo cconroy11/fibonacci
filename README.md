@@ -23,15 +23,13 @@ cd into directory, run
 composer install
 ```
 
+Run the following commands in this order...
 ```
-Run 
 cp .env.example .env
 ```
 ```
-Run
 php artisan key:generate
 ```
 ```
-Run
 php artisan serve
 ```
